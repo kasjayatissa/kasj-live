@@ -38,3 +38,5 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: kasjayatissa
           user_email: kasunj@gmail.com
+          permissions:
+            contents: write
