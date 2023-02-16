@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: 'Kas',
         logo: {
-          alt: 'My Logo',
+          alt: 'Kas Logo',
           src: 'img/logo.svg',
         },
         items: [
