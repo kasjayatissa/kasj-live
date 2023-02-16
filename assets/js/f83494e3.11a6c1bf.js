@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[8507],{2785:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/kasj-live/blog/tags/docusaurus","allTagsPath":"/kasj-live/blog/tags","count":4}')}}]);
