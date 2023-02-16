@@ -20,6 +20,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kasjayatissa', // Usually your GitHub org/user name.
   projectName: 'kasj-live', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Usually your repo name.
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
