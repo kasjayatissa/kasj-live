@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[5380],{589:a=>{a.exports=JSON.parse('{"label":"hardware","permalink":"/kasj-live/blog/tags/hardware","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);
