@@ -35,3 +35,16 @@
   height: 200px;
   width: 200px;
 }
+
+.getStartedButton {
+  margin-right: 0.6rem;
+}
+
+.githubIcon {
+  vertical-align: middle;
+}
+
+.githubButtonText {
+  vertical-align: middle;
+}
+  

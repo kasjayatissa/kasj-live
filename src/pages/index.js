@@ -10,6 +10,8 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useTrail, animated, useSpring } from "@react-spring/web";
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
+import clsx from "clsx";
+import styles from "./index.module.css";
 
 /* function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -88,8 +90,8 @@ function Home() {
           <animated.div style={animatedTexts[1]}>
             <Typography variant="body1">
               <Translate>
-                A father of two, cloud engineer, and home lab tinkerer. I've built this site to document and share a thing or two while I expand my learning in all things technology
-              </Translate>{" "}
+                A father of two, cloud engineer, and home lab tinkerer. I've built this site to document and share a thing or two while I expand my learning in all things technology. Head on over to my blog or docs to see what I've been up to.
+              </Translate>{" "} 
             </Typography>
           </animated.div>
           &nbsp;
@@ -106,7 +108,6 @@ function Home() {
           </animated.p> */}
           <SocialLinks animatedProps={animatedTexts[4]} />
         </Grid>
-
         <Grid item xs={12} lg={6} className="homeImg">
           {/* <img src={useBaseUrl(image)} className="image" /> */}
           <animated.img
@@ -139,6 +140,7 @@ function SocialLinks({ animatedProps, ...props }) {
           </a>
         </Grid>
       </Grid>
+      
     </animated.div>
   );
 }
