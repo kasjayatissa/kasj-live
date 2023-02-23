@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[4879],{1561:e=>{e.exports=JSON.parse('{"label":"mealie","permalink":"/kasj-live/blog/tags/mealie","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);
