@@ -4,6 +4,8 @@ sidebar_position: 7
 
 # NFS Persistent Volumes Provisioner
 
+Setting up NFS server and provisioner
+
 ## Install NFS Server
 
 Install the NFS server and export `/nfs` which is accessible by the Kubernetes cluster:
