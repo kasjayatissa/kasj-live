@@ -96,6 +96,4 @@ Things of note here:
 * `storageClassName` doesn't change for my needs
 * `storage` will vary for the app but worth noting that the whole specified range is provisioned (not just what you use)
 
-
-
 That covers all the core cluster services I reckon, time to install some apps!
