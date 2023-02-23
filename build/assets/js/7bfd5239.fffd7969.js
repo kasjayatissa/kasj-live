@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[5601],{5351:a=>{a.exports=JSON.parse('{"label":"nuc","permalink":"/kasj-live/blog/tags/nuc","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

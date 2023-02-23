@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[4102],{9297:a=>{a.exports=JSON.parse('{"label":"loadbalancer","permalink":"/kasj-live/blog/tags/loadbalancer","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);
