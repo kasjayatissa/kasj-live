@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[9060],{3365:s=>{s.exports=JSON.parse('{"label":"nfs","permalink":"/kasj-live/blog/tags/nfs","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

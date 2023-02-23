@@ -1,0 +1,54 @@
+{
+  "permalink": "/kasj-live/blog/hardware",
+  "source": "@site/blog/2023-01-15-hardware/index.md",
+  "title": "Hardware",
+  "description": "",
+  "date": "2023-01-15T00:00:00.000Z",
+  "formattedDate": "January 15, 2023",
+  "tags": [
+    {
+      "label": "homelab",
+      "permalink": "/kasj-live/blog/tags/homelab"
+    },
+    {
+      "label": "self-hosting",
+      "permalink": "/kasj-live/blog/tags/self-hosting"
+    },
+    {
+      "label": "nuc",
+      "permalink": "/kasj-live/blog/tags/nuc"
+    },
+    {
+      "label": "hardware",
+      "permalink": "/kasj-live/blog/tags/hardware"
+    }
+  ],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kas J",
+      "title": "Author",
+      "url": "https://github.com/kasjayatissa",
+      "imageURL": "https://avatars.githubusercontent.com/u/90017589?v=4",
+      "key": "kas"
+    }
+  ],
+  "frontMatter": {
+    "slug": "hardware",
+    "title": "Hardware",
+    "authors": [
+      "kas"
+    ],
+    "tags": [
+      "homelab",
+      "self-hosting",
+      "nuc",
+      "hardware"
+    ]
+  },
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/kasj-live/blog/welcome"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "permalink": "/kasj-live/blog/dns",
+  "source": "@site/blog/2023-01-27-dns/index.md",
+  "title": "Adblocker and DNS server",
+  "description": "I've always been meaning to add an adblocker to my home network and now with the additional need to have internal hostnames for my services this would be a great time to put one in. There were two great open source solutions to consider:",
+  "date": "2023-01-27T00:00:00.000Z",
+  "formattedDate": "January 27, 2023",
+  "tags": [
+    {
+      "label": "adguard",
+      "permalink": "/kasj-live/blog/tags/adguard"
+    },
+    {
+      "label": "pihole",
+      "permalink": "/kasj-live/blog/tags/pihole"
+    },
+    {
+      "label": "dns",
+      "permalink": "/kasj-live/blog/tags/dns"
+    }
+  ],
+  "readingTime": 7.09,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kas J",
+      "title": "Author",
+      "url": "https://github.com/kasjayatissa",
+      "imageURL": "https://avatars.githubusercontent.com/u/90017589?v=4",
+      "key": "kas"
+    }
+  ],
+  "frontMatter": {
+    "slug": "dns",
+    "title": "Adblocker and DNS server",
+    "authors": [
+      "kas"
+    ],
+    "tags": [
+      "adguard",
+      "pihole",
+      "dns"
+    ]
+  },
+  "prevItem": {
+    "title": "Cluster load balancer",
+    "permalink": "/kasj-live/blog/metallb"
+  },
+  "nextItem": {
+    "title": "Kubernetes cluster - K3s",
+    "permalink": "/kasj-live/blog/k3s"
+  }
+}

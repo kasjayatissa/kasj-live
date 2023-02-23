@@ -1,0 +1,48 @@
+{
+  "permalink": "/kasj-live/blog/welcome",
+  "source": "@site/blog/2021-08-26-welcome copy/index.md",
+  "title": "Welcome",
+  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "formattedDate": "August 26, 2021",
+  "tags": [
+    {
+      "label": "hardware",
+      "permalink": "/kasj-live/blog/tags/hardware"
+    },
+    {
+      "label": "desk",
+      "permalink": "/kasj-live/blog/tags/desk"
+    }
+  ],
+  "readingTime": 0.405,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kas Jayatissa",
+      "title": "Author",
+      "url": "https://github.com/kasjayatissa",
+      "imageURL": "https://avatars.githubusercontent.com/u/90017589?v=4",
+      "key": "kas"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "kas"
+    ],
+    "tags": [
+      "hardware",
+      "desk"
+    ]
+  },
+  "prevItem": {
+    "title": "Welcome",
+    "permalink": "/kasj-live/blog/welcome"
+  },
+  "nextItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/kasj-live/blog/mdx-blog-post"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "K3s Cluster Setup",
+  "description": "Setting up the core services for my K3s Cluster",
+  "slug": "/category/k3s-cluster-setup",
+  "permalink": "/kasj-live/docs/category/k3s-cluster-setup",
+  "navigation": {
+    "previous": {
+      "title": "Documentation",
+      "permalink": "/kasj-live/docs/intro"
+    },
+    "next": {
+      "title": "Proxmox",
+      "permalink": "/kasj-live/docs/cluster-setup/installing-k3s"
+    }
+  }
+}

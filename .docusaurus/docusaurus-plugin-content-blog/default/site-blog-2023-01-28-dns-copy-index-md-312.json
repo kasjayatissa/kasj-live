@@ -1,0 +1,48 @@
+{
+  "permalink": "/kasj-live/blog/certs",
+  "source": "@site/blog/2023-01-28-dns copy/index.md",
+  "title": "Install certificates",
+  "description": "",
+  "date": "2023-01-28T00:00:00.000Z",
+  "formattedDate": "January 28, 2023",
+  "tags": [
+    {
+      "label": "certificates",
+      "permalink": "/kasj-live/blog/tags/certificates"
+    },
+    {
+      "label": "letsencrypt",
+      "permalink": "/kasj-live/blog/tags/letsencrypt"
+    }
+  ],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kas J",
+      "title": "Author",
+      "url": "https://github.com/kasjayatissa",
+      "imageURL": "https://avatars.githubusercontent.com/u/90017589?v=4",
+      "key": "kas"
+    }
+  ],
+  "frontMatter": {
+    "slug": "certs",
+    "title": "Install certificates",
+    "authors": [
+      "kas"
+    ],
+    "tags": [
+      "certificates",
+      "letsencrypt"
+    ]
+  },
+  "prevItem": {
+    "title": "Install certificates",
+    "permalink": "/kasj-live/blog/certs"
+  },
+  "nextItem": {
+    "title": "Install certificates",
+    "permalink": "/kasj-live/blog/certs"
+  }
+}

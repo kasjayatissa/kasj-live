@@ -1,0 +1,26 @@
+{
+  "unversionedId": "homelab-services/adguard",
+  "id": "homelab-services/adguard",
+  "title": "Adguard",
+  "description": "Adguard Home Manifests:",
+  "source": "@site/docs/01-homelab-services/09-adguard.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/adguard",
+  "permalink": "/kasj-live/docs/homelab-services/adguard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pihole",
+    "permalink": "/kasj-live/docs/homelab-services/pihole"
+  },
+  "next": {
+    "title": "Useful Kubernetes Commands",
+    "permalink": "/kasj-live/docs/kube-commands"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "homelab-services/nfs",
+  "id": "homelab-services/nfs",
+  "title": "NFS Persistent Volumes Provisioner",
+  "description": "Setting up NFS server and provisioner",
+  "source": "@site/docs/01-homelab-services/07-nfs.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/nfs",
+  "permalink": "/kasj-live/docs/homelab-services/nfs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Traefik Dashboard",
+    "permalink": "/kasj-live/docs/homelab-services/traefikdash"
+  },
+  "next": {
+    "title": "Pihole",
+    "permalink": "/kasj-live/docs/homelab-services/pihole"
+  }
+}

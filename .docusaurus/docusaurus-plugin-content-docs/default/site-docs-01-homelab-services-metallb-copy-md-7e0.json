@@ -1,0 +1,26 @@
+{
+  "unversionedId": "homelab-services/metallb copy",
+  "id": "homelab-services/metallb copy",
+  "title": "Metallb",
+  "description": "Metallb is the load balancer which I am currently using to expose my homelab services outside my cluster.",
+  "source": "@site/docs/01-homelab-services/metallb copy.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/metallb copy",
+  "permalink": "/kasj-live/docs/homelab-services/metallb copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Metallb",
+    "permalink": "/kasj-live/docs/homelab-services/metallb"
+  },
+  "next": {
+    "title": "Backlog",
+    "permalink": "/kasj-live/docs/backlog"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "homelab-services/installing-k3s",
+  "id": "homelab-services/installing-k3s",
+  "title": "K3s",
+  "description": "K3s was significantly more lightweight, can be deployed much faster and still all all the key capabilities of K8s. There are a number of \"production grade\" features that are excluded from K3s such has handling of complex applications and intergrations with public cloud providers which I didn't require.",
+  "source": "@site/docs/01-homelab-services/installing-k3s.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/installing-k3s",
+  "permalink": "/kasj-live/docs/homelab-services/installing-k3s",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Homelab Services",
+    "permalink": "/kasj-live/docs/category/homelab-services"
+  },
+  "next": {
+    "title": "Metallb",
+    "permalink": "/kasj-live/docs/homelab-services/metallb"
+  }
+}

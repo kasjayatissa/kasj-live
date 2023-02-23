@@ -1,0 +1,26 @@
+{
+  "unversionedId": "homelab-services/letsencrypt",
+  "id": "homelab-services/letsencrypt",
+  "title": "Let's Encrypt",
+  "description": "LetsEncrypt is a nonprofit Certificate Authority that provides free TLS certificates to millions of websites all around the world.",
+  "source": "@site/docs/01-homelab-services/05-letsencrypt.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/letsencrypt",
+  "permalink": "/kasj-live/docs/homelab-services/letsencrypt",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cert Manager",
+    "permalink": "/kasj-live/docs/homelab-services/certmanager"
+  },
+  "next": {
+    "title": "Traefik Dashboard",
+    "permalink": "/kasj-live/docs/homelab-services/traefikdash"
+  }
+}

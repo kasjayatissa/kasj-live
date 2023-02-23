@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Documentation",
+  "description": "I see this area as a quick reference guide to complement my blog. It contains the all the key commands without any of the fluff. I hope to also use it as a spot to capture a backlog of things to try and useful kubernetes commands along the way.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/kasj-live/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Homelab Services",
+    "permalink": "/kasj-live/docs/category/homelab-services"
+  }
+}

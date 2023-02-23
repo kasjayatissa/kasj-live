@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[3693],{8083:a=>{a.exports=JSON.parse('{"label":"homelab","permalink":"/kasj-live/blog/tags/homelab","allTagsPath":"/kasj-live/blog/tags","count":2}')}}]);

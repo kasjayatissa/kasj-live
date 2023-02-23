@@ -1,0 +1,53 @@
+{
+  "permalink": "/kasj-live/blog/traefik",
+  "source": "@site/blog/2023-01-23-traefik/index.md",
+  "title": "Cluster reverse proxy",
+  "description": "Now that I have load balancer to expose my services externally, I have a couple of options:",
+  "date": "2023-01-23T00:00:00.000Z",
+  "formattedDate": "January 23, 2023",
+  "tags": [
+    {
+      "label": "reverse-proxy",
+      "permalink": "/kasj-live/blog/tags/reverse-proxy"
+    },
+    {
+      "label": "traefik",
+      "permalink": "/kasj-live/blog/tags/traefik"
+    },
+    {
+      "label": "kubernetes",
+      "permalink": "/kasj-live/blog/tags/kubernetes"
+    }
+  ],
+  "readingTime": 2.065,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kas J",
+      "title": "Author",
+      "url": "https://github.com/kasjayatissa",
+      "imageURL": "https://avatars.githubusercontent.com/u/90017589?v=4",
+      "key": "kas"
+    }
+  ],
+  "frontMatter": {
+    "slug": "traefik",
+    "title": "Cluster reverse proxy",
+    "authors": [
+      "kas"
+    ],
+    "tags": [
+      "reverse-proxy",
+      "traefik",
+      "kubernetes"
+    ]
+  },
+  "prevItem": {
+    "title": "Certificate manager for cluster",
+    "permalink": "/kasj-live/blog/cert-manager"
+  },
+  "nextItem": {
+    "title": "Clean up",
+    "permalink": "/kasj-live/blog/cable-management"
+  }
+}

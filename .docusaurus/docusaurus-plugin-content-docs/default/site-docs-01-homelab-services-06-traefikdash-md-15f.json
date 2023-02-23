@@ -1,0 +1,26 @@
+{
+  "unversionedId": "homelab-services/traefikdash",
+  "id": "homelab-services/traefikdash",
+  "title": "Traefik Dashboard",
+  "description": "Create and deploy a middleware manifest that forces https:",
+  "source": "@site/docs/01-homelab-services/06-traefikdash.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/traefikdash",
+  "permalink": "/kasj-live/docs/homelab-services/traefikdash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Let's Encrypt",
+    "permalink": "/kasj-live/docs/homelab-services/letsencrypt"
+  },
+  "next": {
+    "title": "NFS Persistent Volumes Provisioner",
+    "permalink": "/kasj-live/docs/homelab-services/nfs"
+  }
+}

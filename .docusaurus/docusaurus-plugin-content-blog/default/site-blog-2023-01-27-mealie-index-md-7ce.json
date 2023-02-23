@@ -1,0 +1,53 @@
+{
+  "permalink": "/kasj-live/blog/mealie",
+  "source": "@site/blog/2023-01-27-mealie/index.md",
+  "title": "Recipe and shopping list management",
+  "description": "",
+  "date": "2023-01-27T00:00:00.000Z",
+  "formattedDate": "January 27, 2023",
+  "tags": [
+    {
+      "label": "recipe",
+      "permalink": "/kasj-live/blog/tags/recipe"
+    },
+    {
+      "label": "shopping",
+      "permalink": "/kasj-live/blog/tags/shopping"
+    },
+    {
+      "label": "mealie",
+      "permalink": "/kasj-live/blog/tags/mealie"
+    }
+  ],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kas J",
+      "title": "Author",
+      "url": "https://github.com/kasjayatissa",
+      "imageURL": "https://avatars.githubusercontent.com/u/90017589?v=4",
+      "key": "kas"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mealie",
+    "title": "Recipe and shopping list management",
+    "authors": [
+      "kas"
+    ],
+    "tags": [
+      "recipe",
+      "shopping",
+      "mealie"
+    ]
+  },
+  "prevItem": {
+    "title": "Internal DNS",
+    "permalink": "/kasj-live/blog/dns"
+  },
+  "nextItem": {
+    "title": "Persistent volumes and NFS",
+    "permalink": "/kasj-live/blog/nfs"
+  }
+}

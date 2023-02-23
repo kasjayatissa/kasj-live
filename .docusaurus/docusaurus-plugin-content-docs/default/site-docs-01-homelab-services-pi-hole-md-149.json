@@ -1,0 +1,22 @@
+{
+  "unversionedId": "homelab-services/pi-hole",
+  "id": "homelab-services/pi-hole",
+  "title": "PiHole",
+  "description": "Installing PiHole",
+  "source": "@site/docs/01-homelab-services/pi-hole.md",
+  "sourceDirName": "01-homelab-services",
+  "slug": "/homelab-services/pi-hole",
+  "permalink": "/kasj-live/docs/homelab-services/pi-hole",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Homelab Services",
+    "permalink": "/kasj-live/docs/category/homelab-services"
+  }
+}

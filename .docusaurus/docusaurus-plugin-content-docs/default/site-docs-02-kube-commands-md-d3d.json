@@ -1,0 +1,26 @@
+{
+  "unversionedId": "kube-commands",
+  "id": "kube-commands",
+  "title": "Useful Kubernetes Commands",
+  "description": "",
+  "source": "@site/docs/02-kube-commands.md",
+  "sourceDirName": ".",
+  "slug": "/kube-commands",
+  "permalink": "/kasj-live/docs/kube-commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adguard",
+    "permalink": "/kasj-live/docs/homelab-services/adguard"
+  },
+  "next": {
+    "title": "Backlog",
+    "permalink": "/kasj-live/docs/backlog"
+  }
+}
