@@ -95,28 +95,28 @@ I <em>think</em> this is why I needed to run kubectl in sudo. So I ran the follo
             <category>kubernetes</category>
         </item>
         <item>
-            <title><![CDATA[Clean up]]></title>
-            <link>https://github.com/kasj-live/blog/cable-management</link>
-            <guid>https://github.com/kasj-live/blog/cable-management</guid>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[So first things first, just like a chef needs to keep their bench clean, think this is the perfect time to clean up my office table. More importantly this cable situation that has been driving me INSANE]]></description>
-            <content:encoded><![CDATA[<p>So first things first, just like a chef needs to keep their bench clean, think this is the perfect time to clean up my office table. More importantly this cable situation that has been driving me <strong>INSANE</strong></p><p><img loading="lazy" alt="Untidy Cables" src="/kasj-live/assets/images/untidy_cables-b39858be2269c0c41c90fcec94d83947.jpg" width="4080" height="3072" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="cable-management">Cable Management<a href="#cable-management" class="hash-link" aria-label="Direct link to Cable Management" title="Direct link to Cable Management">​</a></h3><p>I've had a couple of attempts at cable management but it has always been <em>half-arsed</em> and heavy on the duct tape. It was time to do this properly. I bought a couple of <a href="https://www.amazon.com.au/gp/product/B09NVYV5NB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1" target="_blank" rel="noopener noreferrer">cable cradles</a> from Amazon that fit nicely under the table. From there it was relativey easy to run all the cables and extension cords through. Here's the final result:</p><p><img loading="lazy" alt="Tidy Cables 1" src="/kasj-live/assets/images/tidycable_1-2736f002b05d87619845557f4efc7816.jpg" width="4080" height="3072" class="img_ev3q">
-<img loading="lazy" alt="Tidy Cables 2" src="/kasj-live/assets/images/tidycable_2-77b3330f7e3491e46f894a3586d481c0.jpg" width="4080" height="3072" class="img_ev3q">
-<img loading="lazy" alt="Tidy Cables 3" src="/kasj-live/assets/images/tidycable_3-6c3f25bb0da6c92c0c8c3ec25261842d.jpg" width="4080" height="3072" class="img_ev3q"></p>]]></content:encoded>
-            <category>cable-management</category>
-            <category>desk</category>
-        </item>
-        <item>
             <title><![CDATA[Gear up]]></title>
             <link>https://github.com/kasj-live/blog/hardware</link>
             <guid>https://github.com/kasj-live/blog/hardware</guid>
-            <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[I've normally resorted to buying raspberry pi's (I now have a Model 2B, 3B and 4) and don't have any major self-hosting requirements so I considered clustering them together. Given the current ARM architecture limitations on the older models, I decided I will bite the bullet and buy some more dedicated hardware. I also figured I could:]]></description>
             <content:encoded><![CDATA[<p>I've normally resorted to buying raspberry pi's (I now have a Model 2B, 3B and 4) and don't have any major self-hosting requirements so I considered clustering them together. Given the current ARM architecture limitations on the older models, I decided I will bite the bullet and buy some more dedicated hardware. I also figured I could:</p><ul><li>Add the raspberry pi's into the cluster for some more resources if need be at a later date. </li><li>Use the raspberry pi's as an isolated sandbox for testing</li></ul><p>With Raspberry Pi 4's currently in low stocks, I started exploring mini PCs/NUCs. They are actually pretty cool, the specs are much better, the costs aren't that much higher and they are built to last.</p><p>I ended up getting <a href="https://www.centrecom.com.au/intel-nuc-11-essential-kit-celeron-n4505-atlas-canyon" target="_blank" rel="noopener noreferrer">Intel NUC 11 Essential Kit Celeron N4505 (Atlas Canyon)</a> which was on special at CentreCom. I unboxed and plugged it in immediately only to realise that it is pretty barebones unfortunately. </p><p><img loading="lazy" src="https://cdn1.centrecom.com.au/images/upload/0135473_0.jpeg" alt="NUC" class="img_ev3q"></p><p>The site doesn't cover it but it doesn't come with any pre-installed HDD or RAM (that's why it was cheap!) so I needed to get those off Amazon. Here's what I bought:</p><p>2 X <a href="https://www.amazon.com.au/dp/B08C4Z69LN?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details" target="_blank" rel="noopener noreferrer">8GB DDR4 RAM</a></p><p>  <img loading="lazy" src="https://m.media-amazon.com/images/I/71exOjbZWiL._AC_SX679_.jpg" alt="RAM" class="img_ev3q"></p><p>1 x <a href="https://m.media-amazon.com/images/I/418VuyafoUL._AC_SL1075_.jpg" target="_blank" rel="noopener noreferrer">500GB SSD Hard Drive</a></p><p>  <img loading="lazy" src="https://cdn.mwave.com.au/images/400/crucial_p5_plus_500gb_nvme_m2_pcie_3d_nand_ssd_ct500p5pssd8_ac46349.jpg" alt="HDD" class="img_ev3q"></p><p>Installing them were pretty easy - plug n play, I was then ready to rock n roll!</p>]]></content:encoded>
             <category>homelab</category>
             <category>self-hosting</category>
             <category>nuc</category>
             <category>hardware</category>
+        </item>
+        <item>
+            <title><![CDATA[Clean up]]></title>
+            <link>https://github.com/kasj-live/blog/cable-management</link>
+            <guid>https://github.com/kasj-live/blog/cable-management</guid>
+            <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[So first things first, just like a chef needs to keep their bench clean, think this is the perfect time to clean up my office table. More importantly this cable situation that has been driving me INSANE]]></description>
+            <content:encoded><![CDATA[<p>So first things first, just like a chef needs to keep their bench clean, think this is the perfect time to clean up my office table. More importantly this cable situation that has been driving me <strong>INSANE</strong></p><p><img loading="lazy" alt="Untidy Cables" src="/kasj-live/assets/images/untidy_cables-b39858be2269c0c41c90fcec94d83947.jpg" width="4080" height="3072" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="cable-management">Cable Management<a href="#cable-management" class="hash-link" aria-label="Direct link to Cable Management" title="Direct link to Cable Management">​</a></h3><p>I've had a couple of attempts at cable management but it has always been <em>half-arsed</em> and heavy on the duct tape. It was time to do this properly. I bought a couple of <a href="https://www.amazon.com.au/gp/product/B09NVYV5NB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1" target="_blank" rel="noopener noreferrer">cable cradles</a> from Amazon that fit nicely under the table. From there it was relativey easy to run all the cables and extension cords through. Here's the final result:</p><p><img loading="lazy" alt="Tidy Cables 1" src="/kasj-live/assets/images/tidycable_1-2736f002b05d87619845557f4efc7816.jpg" width="4080" height="3072" class="img_ev3q">
+<img loading="lazy" alt="Tidy Cables 2" src="/kasj-live/assets/images/tidycable_2-77b3330f7e3491e46f894a3586d481c0.jpg" width="4080" height="3072" class="img_ev3q">
+<img loading="lazy" alt="Tidy Cables 3" src="/kasj-live/assets/images/tidycable_3-6c3f25bb0da6c92c0c8c3ec25261842d.jpg" width="4080" height="3072" class="img_ev3q"></p>]]></content:encoded>
+            <category>cable-management</category>
+            <category>desk</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
