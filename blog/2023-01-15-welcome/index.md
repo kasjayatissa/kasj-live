@@ -11,4 +11,6 @@ There are some amazing resources available that I have been leaning on heavily b
 
 I wanted to give a shout out to [technotim](https://www.youtube.com/@technotim) and [noted.lol](https://noted.lol/) who I've drawn a lot of inspiration from for a number of my services.
 
+Full disclosure, I'm not one to write blogs so this is a bit of a challenge in itself. I've given myself a bit of license to be a keep things a bit rough as I write to keep myself motivated to continue to post regularly.
+
 If you're interested feel free to read through my posts and head over to my [docs](/docs/intro)

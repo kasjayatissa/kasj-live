@@ -90,9 +90,9 @@ function Home() {
           <animated.div style={animatedTexts[1]}>
             <Typography variant="body1">
               <Translate>
-                A father of two, cloud engineer, and technology tinkerer. I've been lucky enough to be given 6 months of paternity leave by my employer in 2023. During the baby's nap time, I thought it might be
-                cool to set myself another challenge to start a homelab that I can use to sharpen up some engineering skills. I've built this site to document my journey and share a thing or two while I expand my learning in all things technology. 
-                Head on over to my blog or docs to see what I've been up to.
+                A husband, father of two, cloud engineer, and technology tinkerer. I've been lucky enough to be given 6 months of paternity leave by my employer in 2023. During the baby's nap time, I thought it might be
+                cool to set myself another challenge to start a homelab that I can use to sharpen up some engineering skills.
+                I've built this site to document and share a thing or two while I expand my learning in all things technology. Head on over to my blog or docs to see what I've been up to.
               </Translate>{" "} 
             </Typography>
           </animated.div>
