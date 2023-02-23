@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Pihole
 
-Pihole Manifests:
+Pihole manifests for deployment
 
 ## Namespace
 

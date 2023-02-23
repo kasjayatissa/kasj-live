@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kas',
-  tagline: 'Nerds rule',
-  favicon: 'img/favicon.ico',
+  //tagline: 'Nerds rule',
+  favicon: 'img/coder.png',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://kasj.live',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -66,12 +66,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      //image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Kas',
         logo: {
           alt: 'Kas Logo',
-          src: 'img/logo.svg',
+          src: 'img/coder.png',
         },
         items: [
           //{

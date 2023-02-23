@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Adguard
 
-Adguard Home Manifests:
+Adguard Home Manifests generated from Kompose
 
 ## Volume claims
 
