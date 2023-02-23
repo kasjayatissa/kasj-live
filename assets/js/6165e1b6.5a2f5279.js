@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[1156],{2079:a=>{a.exports=JSON.parse('{"label":"dashboard","permalink":"/kasj-live/blog/tags/dashboard","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

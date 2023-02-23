@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[5661],{2500:s=>{s.exports=JSON.parse('{"label":"gitops","permalink":"/kasj-live/blog/tags/gitops","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

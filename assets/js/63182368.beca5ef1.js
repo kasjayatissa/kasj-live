@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[4643],{2964:e=>{e.exports=JSON.parse('{"label":"kubernetes","permalink":"/kasj-live/blog/tags/kubernetes","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

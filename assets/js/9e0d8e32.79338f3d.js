@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[2864],{4488:a=>{a.exports=JSON.parse('{"label":"argocd","permalink":"/kasj-live/blog/tags/argocd","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);
