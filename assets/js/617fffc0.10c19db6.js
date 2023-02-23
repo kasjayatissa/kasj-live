@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[1078],{6142:a=>{a.exports=JSON.parse('{"label":"adguard","permalink":"/kasj-live/blog/tags/adguard","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

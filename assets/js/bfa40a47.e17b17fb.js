@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[897],{2834:l=>{l.exports=JSON.parse('{"label":"heimdall","permalink":"/kasj-live/blog/tags/heimdall","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);

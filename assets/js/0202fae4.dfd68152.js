@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[4458],{8990:e=>{e.exports=JSON.parse('{"permalink":"/kasj-live/blog/tags/heimdall","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

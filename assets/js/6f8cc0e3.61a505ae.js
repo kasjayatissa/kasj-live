@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[2990],{8615:e=>{e.exports=JSON.parse('{"label":"letsencrypt","permalink":"/kasj-live/blog/tags/letsencrypt","allTagsPath":"/kasj-live/blog/tags","count":2}')}}]);
