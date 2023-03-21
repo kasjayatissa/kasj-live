@@ -92,3 +92,51 @@ Issuing  and validating the certificates takes time (20 minutes minimum). To che
 ```bash
 kubectl get challenges
 ```
+
+## Update since 21/03/2023
+
+Traefik by default normally uses its own self-signed certificate for each ingress service that you define. What I needed to configure was something to tell Traefik to serve the new wildcard certifate I'd created instead. This can be done through a kubernetes resource called **TLSStore**. 
+
+Create a TLSStore resource with the name  `default`. According to the article above, it needed to be called default to be picked up by Traefik by default:
+
+```yaml title="/home-lab/cluster-setup/cert-manager/tls-store.yaml"
+---
+apiVersion: traefik.containo.us/v1alpha1
+kind: TLSStore
+metadata:
+  name: default
+  namespace: kube-system
+spec:
+  defaultCertificate:
+    secretName: wildcard-home-kasj-live-tls"
+```
+
+Restart Traefik deployment so that it knows to pick up the new cert by default
+
+## Testing the new solution
+
+To test if Traefik was issuing my new wildcard certificate by default, I created a simple nginx server and exposed it using the following manifest on `test.home.kasj.live`:
+
+```yaml title="/home-lab/prod-apps/nginx/ingress.yaml"
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: nginx
+  namespace: nginx
+  annotations:
+    kubernetes.io/ingress.class: traefik
+    traefik.ingress.kubernetes.io/redirect-entry-point: https
+spec:
+  rules:
+    - host: test.home.kasj.live
+      http:
+        paths:
+          - backend:
+              service:
+                name: nginx
+                port:
+                  number: 80
+            path: /
+            pathType: Prefix
+```
