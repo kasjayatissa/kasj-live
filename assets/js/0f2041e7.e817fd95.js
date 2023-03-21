@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[589],{3753:s=>{s.exports=JSON.parse('{"label":"passwords","permalink":"/kasj-live/blog/tags/passwords","allTagsPath":"/kasj-live/blog/tags","count":1}')}}]);
