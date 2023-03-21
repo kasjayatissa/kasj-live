@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[9291],{3899:a=>{a.exports=JSON.parse('{"label":"cert-manager","permalink":"/kasj-live/blog/tags/cert-manager","allTagsPath":"/kasj-live/blog/tags","count":2}')}}]);
