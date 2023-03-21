@@ -90,8 +90,8 @@ function Home() {
           <animated.div style={animatedTexts[1]}>
             <Typography variant="body1">
               <Translate>
-                A husband, father of two, cloud engineer, and technology tinkerer. I've been lucky enough to be given 6 months of paternity leave by my employer in 2023. During the baby's nap time, I thought it might be
-                cool to set myself another challenge to start a homelab that I can use to sharpen up some engineering skills.
+                A husband, father of two, cloud engineer, and technology tinkerer. I've been lucky enough to enjoy 6 months of paternity leave in 2023 with my beautiful daughter. The thing is babies sleep alot! During her nap time, I thought it might be
+                cool to set myself another challenge to start a homelab that I can use to sharpen up some engineering skills. Why a home-lab? Having worked with public cloud technology, I wanted to see what it would be like to be able to self host some capabilities at home. The beauty of self-hosting is that take control of my own "cloud" services, control my data and discover new, free open source software that can provide solutions to everyday problems.
                 I've built this site to document and share a thing or two while I expand my learning in all things technology. Head on over to my blog or docs to see what I've been up to.
               </Translate>{" "} 
             </Typography>
