@@ -74,7 +74,7 @@ spec:
 
 To test if Traefik was issuing my new wildcard certificate by default, I created a simple nginx server and exposed it using the following manifest on `test.home.kasj.live`:
 
-```yaml title="/home-lab/prod-apps/nginx/ingress.yaml"
+```yaml title="//home-lab/prod-apps/nginx/ingress.yaml"
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
