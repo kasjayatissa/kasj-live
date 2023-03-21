@@ -7,7 +7,7 @@ tags: [passwords, bitwarden]
 
 # I switched to a self-hosted password manager and I'm not going back
 
-One of the biggest reasons for creating a homelab is I wanted the ability to leverage the some of the great services and solutions that were available in the public cloud within the safety of my home network where my data was out of reach in the wild world of the internet. I can't think of a better example of this than Password Management. 
+  One of the biggest reasons for creating a homelab is I wanted the ability to leverage the some of the great services and solutions that were available in the public cloud within the safety of my home network where my data was out of reach in the wild world of the internet. I can't think of a better example of this than Password Management. 
 
 The last 12 months have been incredibly eye opening for a lot of folks when it comes to data privacy with some pretty large breaches impacting millions of people. The Office of the Australian Information Commissioner [reports](https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-publications/notifiable-data-breaches-report-july-to-december-2022) 497 breaches were notified compared with 393 in January to June 2022 – a 26% increase, most of which were malicious or criminal attacks.
 
