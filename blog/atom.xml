@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/kasj-live/blog</id>
     <title>Kas Blog</title>
-    <updated>2023-03-22T00:00:00.000Z</updated>
+    <updated>2023-04-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/kasj-live/blog"/>
     <subtitle>Kas Blog</subtitle>
     <icon>https://github.com/kasj-live/img/coder.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Automating configurations with Ansible]]></title>
+        <id>https://github.com/kasj-live/blog/ansible</id>
+        <link href="https://github.com/kasj-live/blog/ansible"/>
+        <updated>2023-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past couple of weeks, I've been experimenting quite a bit on my server (installing, uninstalling, changing config everywhere). Before I started installing and using my apps in anger I thought it might be best to start clean. This was also a great opporunity to learn Ansible to automate the entire cluster set up.]]></summary>
+        <content type="html"><![CDATA[<p>Over the past couple of weeks, I've been experimenting quite a bit on my server (installing, uninstalling, changing config everywhere). Before I started installing and using my apps in anger I thought it might be best to start clean. This was also a great opporunity to learn Ansible to automate the entire cluster set up.</p><p>I've been using Terraform quite a bit as part of my day job and for me Ansible is Terraform's perfect partner in crime. Terraform sets up the infrastructure and Ansible then goes over the top and installs the configuration. Both tools operate under the same way, configurations describe the state that you need in a declarative manner. So for cluster set up my target is to automate the following tasks after a fresh version of Ubuntu is installed:</p><ol><li>Install K3s</li><li>Install load balancer Metallb</li><li>Install NFS server</li><li>Install reverse proxy Traefik</li><li>Install Cert Manager and Certificates</li><li>Install ArgoCD (which will deploy all my apps - more on this in a future post)</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="ansible-playbooks-and-roles">Ansible playbooks and roles<a href="#ansible-playbooks-and-roles" class="hash-link" aria-label="Direct link to Ansible playbooks and roles" title="Direct link to Ansible playbooks and roles">​</a></h2><p>Ansible configurations are written in a file which contains all the various config tasks that are needed to be run along with instructions to execute these tasks called <strong>ansible playbooks</strong>. You could theoretically write one big playbook to automate all the tasks above but it is easier to keep things modular. This is where <strong>ansible roles</strong> comes in - roles are simply a more modular version of a playbook which contains its own file structure, variables and handlers. More importantly for me, grouping things by roles allow you to share your playbooks easier with other users. </p><p>Through the wonderful open source community I was able to source some great roles through Ansible galaxy (Ansible role marketplace) and Github, I was able to source and tweak the following roles:</p><ul><li>Techno Tim's role to install <a href="https://github.com/techno-tim/k3s-ansible" target="_blank" rel="noopener noreferrer">K3s and Metallb</a></li><li>Jeff Geerling's role to install <a href="https://galaxy.ansible.com/geerlingguy/nfs" target="_blank" rel="noopener noreferrer">NFS server</a></li><li>Githubixx's role to install <a href="https://galaxy.ansible.com/githubixx/cert_manager_kubernetes" target="_blank" rel="noopener noreferrer">cert-manager</a> and <a href="https://galaxy.ansible.com/githubixx/traefik_kubernetes" target="_blank" rel="noopener noreferrer">traefik</a></li><li>Reefland's role to install <a href="https://github.com/reefland/ansible-k3s-argocd-renovate" target="_blank" rel="noopener noreferrer">ArgoCD</a></li></ul><p>Honestly, I didn't need to make many tweaks to these playbooks at all, if anything I needed to remove tasks because they were doing more than I needed to do. All I needed to do was point these playbooks to my local servers, ensure I had SSH connectivity and the playbooks did the rest - Pretty cool!</p>]]></content>
+        <author>
+            <name>Kas J</name>
+            <uri>https://github.com/kasjayatissa</uri>
+        </author>
+        <category label="ansible" term="ansible"/>
+        <category label="automation" term="automation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I switched to a self-hosted password manager and I'm not going back]]></title>
         <id>https://github.com/kasj-live/blog/bitwarden</id>
