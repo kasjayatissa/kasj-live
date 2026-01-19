@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[6985],{8273:e=>{e.exports=JSON.parse('{"label":"pihole","permalink":"/blog/tags/pihole","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[9377],{5240:s=>{s.exports=JSON.parse('{"label":"persistent-volumes","permalink":"/blog/tags/persistent-volumes","allTagsPath":"/blog/tags","count":1}')}}]);

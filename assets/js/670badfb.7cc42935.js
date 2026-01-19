@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[1242],{6630:a=>{a.exports=JSON.parse('{"label":"cable-management","permalink":"/blog/tags/cable-management","allTagsPath":"/blog/tags","count":1}')}}]);

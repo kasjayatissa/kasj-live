@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[7231],{4662:a=>{a.exports=JSON.parse('{"label":"adguard","permalink":"/blog/tags/adguard","allTagsPath":"/blog/tags","count":1}')}}]);

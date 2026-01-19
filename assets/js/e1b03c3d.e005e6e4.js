@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[8047],{6589:s=>{s.exports=JSON.parse('{"label":"nfs","permalink":"/blog/tags/nfs","allTagsPath":"/blog/tags","count":1}')}}]);

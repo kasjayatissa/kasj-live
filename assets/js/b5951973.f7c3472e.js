@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[9918],{7915:a=>{a.exports=JSON.parse('{"label":"traffik","permalink":"/blog/tags/traffik","allTagsPath":"/blog/tags","count":1}')}}]);

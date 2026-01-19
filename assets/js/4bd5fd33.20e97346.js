@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[6560],{404:a=>{a.exports=JSON.parse('{"label":"automation","permalink":"/blog/tags/automation","allTagsPath":"/blog/tags","count":1}')}}]);

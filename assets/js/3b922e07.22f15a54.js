@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[3579],{4386:s=>{s.exports=JSON.parse('{"label":"self-hosting","permalink":"/blog/tags/self-hosting","allTagsPath":"/blog/tags","count":2}')}}]);

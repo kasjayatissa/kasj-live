@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkasj_live=self.webpackChunkkasj_live||[]).push([[1539],{4595:s=>{s.exports=JSON.parse('{"label":"shopping-list","permalink":"/blog/tags/shopping-list","allTagsPath":"/blog/tags","count":1}')}}]);
